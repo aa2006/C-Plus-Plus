@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['y_4557',['y',['../d8/dc8/struct_point.html#a2e1b5fb2b2a83571f5c0bc0f66a73cf7',1,'Point::y()'],['../d8/dc8/struct_point.html#afa38be143ae800e6ad69ce8ed4df62d8',1,'Point::y()']]]
+  ['weights_5294',['weights',['../d6/d30/classmachine__learning_1_1adaline.html#a4cd8fe438032fedaa66f93bfd66f5492',1,'machine_learning::adaline']]],
+  ['white_5295',['WHITE',['../da/d4b/depth__first__search__with__stack_8cpp.html#afb80b42b42381658a12a57a975ecd0c7',1,'depth_first_search_with_stack.cpp']]],
+  ['word_5fend_5296',['word_end',['../d5/d12/structdata__structures_1_1trie__using__hashmap_1_1_trie_1_1_node.html#a3cdb077745d3dc97212d693132371219',1,'data_structures::trie_using_hashmap::Trie::Node']]]
 ];

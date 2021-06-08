@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['contribution_20guidelines_4584',['CONTRIBUTION GUIDELINES',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html',1,'']]]
+  ['backtracking_5329',['Backtracking',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html',1,'']]]
 ];

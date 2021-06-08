@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['jarvis_5falgorithm_2ecpp_2826',['jarvis_algorithm.cpp',['../d4/d8d/jarvis__algorithm_8cpp.html',1,'']]],
-  ['jump_5fsearch_2ecpp_2827',['jump_search.cpp',['../d2/d22/jump__search_8cpp.html',1,'']]],
-  ['jumpgame_2ecpp_2828',['jumpgame.cpp',['../df/d64/jumpgame_8cpp.html',1,'']]]
+  ['insertion_5fsort_2ecpp_3313',['insertion_sort.cpp',['../dd/d0d/insertion__sort_8cpp.html',1,'']]],
+  ['integral_5fapproximation_2ecpp_3314',['integral_approximation.cpp',['../d1/de9/integral__approximation_8cpp.html',1,'']]],
+  ['interpolation_5fsearch_2ecpp_3315',['interpolation_search.cpp',['../d9/dd7/interpolation__search_8cpp.html',1,'']]],
+  ['interpolation_5fsearch2_2ecpp_3316',['interpolation_search2.cpp',['../df/d39/interpolation__search2_8cpp.html',1,'']]],
+  ['is_5fgraph_5fbipartite_2ecpp_3317',['is_graph_bipartite.cpp',['../d6/dd8/is__graph__bipartite_8cpp.html',1,'']]]
 ];

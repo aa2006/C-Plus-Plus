@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['heavy_5flight_5fdecomposition_2725',['heavy_light_decomposition',['../db/d6f/namespaceheavy__light__decomposition.html',1,'']]],
-  ['horspool_2726',['horspool',['../d5/d02/namespacehorspool.html',1,'']]]
+  ['geometry_3168',['geometry',['../d5/d5f/namespacegeometry.html',1,'']]],
+  ['gram_5fschmidt_3169',['gram_schmidt',['../d4/d0f/namespacegram__schmidt.html',1,'']]],
+  ['graph_3170',['graph',['../df/dce/namespacegraph.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['prime_20factorization_4586',['Prime factorization',['../d7/d7f/section.html',1,'']]]
+  ['guidelines_20for_20reviewers_20and_20maintainers_5332',['Guidelines for reviewers and maintainers',['../dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html',1,'']]]
 ];

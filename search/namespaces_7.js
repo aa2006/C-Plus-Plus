@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['jarvis_2728',['jarvis',['../d5/da7/namespacejarvis.html',1,'']]]
+  ['inversion_3174',['inversion',['../d9/d13/namespaceinversion.html',1,'']]],
+  ['is_5fgraph_5fbipartite_3175',['is_graph_bipartite',['../de/d83/namespaceis__graph__bipartite.html',1,'']]]
 ];

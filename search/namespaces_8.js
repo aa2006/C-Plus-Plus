@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['kadane_2729',['kadane',['../d6/d74/namespacekadane.html',1,'']]]
+  ['jarvis_3176',['jarvis',['../d5/da7/namespacejarvis.html',1,'']]]
 ];

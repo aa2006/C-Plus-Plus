@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['n_4520',['n',['../de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#aefea7ee87a708298c486d5a38ac628ef',1,'graph::is_graph_bipartite::Graph']]],
-  ['neighbors_4521',['neighbors',['../dc/d61/classgraph_1_1_graph.html#afe3c12683248e50a7a1688b40156a842',1,'graph::Graph']]],
-  ['next_4522',['next',['../d5/da1/structnode.html#a135f25acadfbba644f848f1aa18d8350',1,'node::next()'],['../dd/d1c/classhash__chain.html#a48236d44349c3ebce4774b706f4f8a0f',1,'hash_chain::next()'],['../d8/d10/structlist.html#a1900fe79e875e2838625b2eb60837f8f',1,'list::next()']]],
-  ['num_5fchars_4523',['NUM_CHARS',['../d0/d3e/classdata__structures_1_1trie.html#a4bfac4be6ed1a34c7159eddb42469191',1,'data_structures::trie']]]
+  ['label_5232',['label',['../d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a722cc7cf2c3e4d15583601a48b09776f',1,'range_queries::heavy_light_decomposition::HLD']]],
+  ['last_5233',['last',['../d1/def/classdata__structures_1_1linked__list_1_1list.html#ae8a5aa5c6dbbc5b882030b52619dd1a3',1,'data_structures::linked_list::list']]],
+  ['left_5234',['left',['../dd/db6/structbinary__search__tree_1_1bst__node.html#a55c165b9e0e5b50a23104e0604dcc788',1,'binary_search_tree::bst_node']]],
+  ['level_5235',['level',['../d4/d90/classdata__structures_1_1_skip_list.html#a3e249c2c35a8b7f5ffd2d77fee60d650',1,'data_structures::SkipList::level()'],['../d0/d58/classgraph_1_1_rooted_tree.html#a2ee3ad1161ac2532da30c3e22c265ad3',1,'graph::RootedTree::level()']]],
+  ['log_5236',['LOG',['../da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html#a6cf72f93b1551f0d943c585b4f173be3',1,'data_structures::sparse_table::Sparse_table']]]
 ];

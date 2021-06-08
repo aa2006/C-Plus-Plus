@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['capacity_4493',['capacity',['../d2/d05/class_min_heap.html#a88b4aa3e66392a3eabbf2517a9a79a02',1,'MinHeap']]]
+  ['black_5203',['BLACK',['../da/d4b/depth__first__search__with__stack_8cpp.html#a7f1cd94cf4da32933e8551cb3577e18b',1,'depth_first_search_with_stack.cpp']]]
 ];

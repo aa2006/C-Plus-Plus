@@ -1,5 +1,11 @@
 var searchData=
 [
-  ['rabin_5fkarp_2ecpp_2881',['rabin_karp.cpp',['../d6/dce/rabin__karp_8cpp.html',1,'']]],
-  ['realtime_5fstats_2ecpp_2882',['realtime_stats.cpp',['../d0/d08/realtime__stats_8cpp.html',1,'']]]
+  ['qr_5fdecompose_2eh_3381',['qr_decompose.h',['../d4/d68/qr__decompose_8h.html',1,'']]],
+  ['qr_5fdecomposition_2ecpp_3382',['qr_decomposition.cpp',['../d3/d24/qr__decomposition_8cpp.html',1,'']]],
+  ['qr_5feigen_5fvalues_2ecpp_3383',['qr_eigen_values.cpp',['../de/d75/qr__eigen__values_8cpp.html',1,'']]],
+  ['quadratic_5fprobing_5fhash_5ftable_2ecpp_3384',['quadratic_probing_hash_table.cpp',['../db/d71/quadratic__probing__hash__table_8cpp.html',1,'']]],
+  ['queue_5fusing_5farray_2ecpp_3385',['queue_using_array.cpp',['../d8/df0/queue__using__array_8cpp.html',1,'']]],
+  ['queue_5fusing_5ftwo_5fstacks_2ecpp_3386',['queue_using_two_stacks.cpp',['../df/dd0/queue__using__two__stacks_8cpp.html',1,'']]],
+  ['quick_5fsort_2ecpp_3387',['quick_sort.cpp',['../d1/d21/quick__sort_8cpp.html',1,'']]],
+  ['quick_5fsort_5f3_2ecpp_3388',['quick_sort_3.cpp',['../d3/d4c/quick__sort__3_8cpp.html',1,'']]]
 ];

@@ -1,4 +1,19 @@
 var searchData=
 [
-  ['util_5ffunctions_2758',['util_functions',['../d3/d17/namespaceutil__functions.html',1,'']]]
+  ['chrono_3211',['chrono',['http://en.cppreference.com/w/d4/d0c/namespacestd_1_1chrono.html',0,'std']]],
+  ['experimental_3212',['experimental',['http://en.cppreference.com/w/de/d97/namespacestd_1_1experimental.html',0,'std']]],
+  ['regex_5fconstants_3213',['regex_constants',['http://en.cppreference.com/w/db/da4/namespacestd_1_1regex__constants.html',0,'std']]],
+  ['rel_5fops_3214',['rel_ops',['http://en.cppreference.com/w/da/d42/namespacestd_1_1rel__ops.html',0,'std']]],
+  ['saddleback_3215',['saddleback',['../d0/dda/namespacesaddleback.html',1,'']]],
+  ['search_3216',['search',['../d9/dca/namespacesearch.html',1,'']]],
+  ['shortest_5fcommon_5fsupersequence_3217',['shortest_common_supersequence',['../d3/deb/namespaceshortest__common__supersequence.html',1,'']]],
+  ['sorting_3218',['sorting',['../d5/d91/namespacesorting.html',1,'']]],
+  ['sparse_5ftable_3219',['sparse_table',['../d9/d55/namespacesparse__table.html',1,'']]],
+  ['spirograph_3220',['spirograph',['../da/dd3/namespacespirograph.html',1,'']]],
+  ['statistics_3221',['statistics',['../d2/dcf/namespacestatistics.html',1,'']]],
+  ['std_3222',['std',['../d8/dcc/namespacestd.html',1,'']]],
+  ['strand_3223',['strand',['../d8/d1d/namespacestrand.html',1,'']]],
+  ['string_5fsearch_3224',['string_search',['../d9/d03/namespacestring__search.html',1,'']]],
+  ['strings_3225',['strings',['../df/dcb/namespacestrings.html',1,'']]],
+  ['this_5fthread_3226',['this_thread',['http://en.cppreference.com/w/d7/dbf/namespacestd_1_1this__thread.html',0,'std']]]
 ];

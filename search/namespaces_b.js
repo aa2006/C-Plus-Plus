@@ -1,6 +1,11 @@
 var searchData=
 [
-  ['n_5fqueens_2736',['n_queens',['../d3/da1/namespacen__queens.html',1,'']]],
-  ['n_5fqueens_5fall_5fsolutions_2737',['n_queens_all_solutions',['../df/d44/namespacen__queens__all__solutions.html',1,'']]],
-  ['neural_5fnetwork_2738',['neural_network',['../d0/d2e/namespaceneural__network.html',1,'']]]
+  ['machine_5flearning_3185',['machine_learning',['../d8/d77/namespacemachine__learning.html',1,'']]],
+  ['math_3186',['math',['../dd/d47/namespacemath.html',1,'']]],
+  ['median_5fsearch_3187',['median_search',['../da/dd4/namespacemedian__search.html',1,'']]],
+  ['merge_5finsertion_3188',['merge_insertion',['../de/d0a/namespacemerge__insertion.html',1,'']]],
+  ['mincoins_5ftopdown_3189',['mincoins_topdown',['../d5/db8/namespacemincoins__topdown.html',1,'']]],
+  ['minimum_3190',['Minimum',['../d4/d12/namespace_minimum.html',1,'']]],
+  ['modular_5fdivision_3191',['modular_division',['../d1/d64/namespacemodular__division.html',1,'']]],
+  ['morse_3192',['morse',['../d6/d8d/namespacemorse.html',1,'']]]
 ];
