@@ -44,7 +44,40 @@ var namespaces_dup =
     [ "depth_first_search", "d8/da7/namespacedepth__first__search.html", null ],
     [ "disjoint_union", "de/db4/namespacedisjoint__union.html", null ],
     [ "double_hashing", "d0/d65/namespacedouble__hashing.html", "d0/d65/namespacedouble__hashing" ],
-    [ "dynamic_programming", "dd/d24/namespacedynamic__programming.html", null ],
+    [ "dynamic_programming", "dd/d24/namespacedynamic__programming.html", [
+      [ "abbreviation", null, [
+        [ "abbreviation", "d7/d73/abbreviation_8cpp.html#af53b2f647bee9c5b75ef8dd9ef685dc8", null ],
+        [ "abbreviation_recursion", "d7/d73/abbreviation_8cpp.html#a4e606aa4c764ad8d13e49eab002ec7b9", null ]
+      ] ],
+      [ "cut_rod", null, [
+        [ "maxProfitByCuttingRod", "d6/d10/cut__rod_8cpp.html#a1cc523a30c18c63eac58220c3c494cfa", null ]
+      ] ],
+      [ "kadane", null, [
+        [ "maxSubArray", "db/dca/kadane2_8cpp.html#af3029007a422a914a85c0b0122f1c7b4", null ]
+      ] ],
+      [ "knapsack", null, [
+        [ "maxKnapsackValue", "db/d16/0__1__knapsack_8cpp.html#a15edf30f336885e5b851f6b7199c6cd1", null ]
+      ] ],
+      [ "mincoins_topdown", null, [
+        [ "mincoins", "d9/d31/coin__change__topdown_8cpp.html#ac816a4ae8a29c156b90377041000929a", null ]
+      ] ],
+      [ "minimum_edit_distance", null, [
+        [ "editDistDP", "da/d52/minimum__edit__distance_8cpp.html#ade2fcfe0359f3c7691bfaa04b14943e2", null ],
+        [ "min", "da/d52/minimum__edit__distance_8cpp.html#a0138c226bd79ffe6d839c787cfc60347", null ]
+      ] ],
+      [ "palindrome_partitioning", null, [
+        [ "pal_part", "d5/d90/palindrome__partitioning_8cpp.html#a52ee22882858d2b1cf04293f02ed839a", null ]
+      ] ],
+      [ "shortest_common_supersequence", null, [
+        [ "scs", "d7/d65/shortest__common__supersequence_8cpp.html#ad2ee8d7e67da9f6eb85146b08dad95e6", null ]
+      ] ],
+      [ "word_break", null, [
+        [ "check", "d3/d84/word__break_8cpp.html#a272b0f5cdb4e41fd6dee4538b808c06a", null ],
+        [ "exists", "d3/d84/word__break_8cpp.html#a1cc9dd6e6190d10a010fdcdfe7a21a81", null ],
+        [ "wordBreak", "d3/d84/word__break_8cpp.html#afe4dcd6fd5282e535685361cba645d7c", null ]
+      ] ],
+      [ "LIS", "dd/d24/namespacedynamic__programming.html#a0a2215194e58786c34db1ccaf8031079", null ]
+    ] ],
     [ "false_position", "df/dea/namespacefalse__position.html", null ],
     [ "fibonacci_sum", "d3/dc9/namespacefibonacci__sum.html", null ],
     [ "geometry", "d5/d5f/namespacegeometry.html", "d5/d5f/namespacegeometry" ],

@@ -124,18 +124,18 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "",
-"cpp/io/c/vfwprintf.html",
-"cpp/string/wide/iswgraph.html",
-"d1/d83/classuint256__t.html#a4e6aa3f3ca9da9eb3a36cd4542ae51bb",
-"d3/d19/sparse__matrix_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d4/dd2/namespacequadratic__probing.html#a90f9d8a71e3f148b65bcc0c1c8a49c70",
-"d6/d26/classciphers_1_1_hill_cipher.html#a63e7b8e92dff8b9260d6d21c31ecebd0",
-"d7/d7f/section.html",
-"d9/d03/namespacestring__search.html#aebe07cea289a13142503d98be7df11fd",
-"da/d9a/class_graph.html#a902c5b3eacb66d60752525ab23297a95",
-"db/d9a/classuint128__t.html#afb16ce982ab5ad2863e390a4f56959d0",
-"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#a48d054230468b79037964f474d842b6e",
-"functions_e.html"
+"cpp/io/c/ungetwc.html",
+"cpp/string/multibyte/wcstombs.html",
+"d1/d83/classuint256__t.html#a303287d7bc8686dcb47fcb04720ad409",
+"d2/de9/heavy__light__decomposition_8cpp.html#af31ec5409537703d9c8a47350386b32a",
+"d4/dd2/namespacequadratic__probing.html",
+"d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a9883dfcceede9a42227d2d313ae86f85",
+"d7/d77/class_edge.html#a2449478938136b5ab7ef0e7d92e6990b",
+"d8/dee/avltree_8cpp.html#adb8e952bf1c266bae84111b9d6a12015",
+"da/d8d/depth__first__search_8cpp.html",
+"db/d9a/classuint128__t.html#ab07413c67d205e406abf3a9f554d59e1",
+"dd/d4f/class_solution.html#a7ee66ff56c3262f49139516c366a2529",
+"dir_19b2bf9199a15c634a08b1ede1dd896a.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
